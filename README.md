@@ -1,3 +1,5 @@
+In this group challenge, I have completed TabBarView, ViewModel, Registration View, Auth View, Profile View and Localizable
+
 This repository showcases a project built using SwiftUI and following the MVVM architecture pattern for structuring the codebase. It leverages modern Swift features such as async/await for asynchronous operations and utilizes the import PackageDescription to manage dependencies.
 
 Technologies Used
@@ -14,4 +16,3 @@ Images are loaded asynchronously using the AsyncImageView component, ensuring a 
 
 State Management
 The project utilizes a state machine to manage various states and transitions within the application. This approach provides a clear and structured way to handle UI state changes, leading to a more robust and maintainable codebase.
-
